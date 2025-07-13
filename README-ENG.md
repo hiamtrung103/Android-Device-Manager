@@ -8,15 +8,6 @@
 
 # Android Device Manager
 
-> (nội dung tiếng Việt …)
-
-
-<p align="right">
-  [![VN](https://img.shields.io/badge/lang-VIE-red)](README.md)
-  [![EN](https://img.shields.io/badge/lang-ENG-blue)](README-ENG.md)
-</p>
-# Android Device Manager
-
 > Version 3.0 · © 2025 Hiamtrung102™
 
 **Android Device Manager** is a Windows desktop application that provides a polished GUI for interacting with Android devices via ADB and TWRP, from backups/restores through deep-level spoofing and bulk operations.
