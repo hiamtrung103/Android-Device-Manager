@@ -1,7 +1,20 @@
 ![Release](https://img.shields.io/github/v/release/hiamtrung103/Android-Device-Manager)
 ![License](https://img.shields.io/github/license/hiamtrung103/Android-Device-Manager)
 
+<p align="right">
+  <a href="README.md"><strong>Vietnamese</strong></a> |
+  <a href="README-ENG.md">English</a>
+</p>
+
 # Android Device Manager
+
+> (nội dung tiếng Việt …)
+
+
+<p align="right">
+  [![VN](https://img.shields.io/badge/lang-VIE-red)](README.md)
+  [![EN](https://img.shields.io/badge/lang-ENG-blue)](README-ENG.md)
+</p>
 
 > Phiên bản 3.0 · Bản quyền © 2025 Hiamtrung102™
 
