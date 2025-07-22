@@ -68,8 +68,6 @@
 
 ## 📸 Screenshots
 
-> Thêm ảnh minh họa vào thư mục `./screenshots/` và update đường dẫn bên dưới.
-
 | Main Interface                         | Settings & Proxy           |
 |----------------------------------------|----------------------------|
 | ![Main Interface](./screenshots/main.png) | ![Settings](./screenshots/settings.png) |

@@ -89,8 +89,6 @@
 
 ## 📸 Screenshots
 
-> Drop screenshots into `./screenshots/` and update paths below.
-
 | Main Interface                         | Settings & Proxy           |
 |----------------------------------------|----------------------------|
 | ![Main Interface](./screenshots/main.png) | ![Settings](./screenshots/settings.png) |
