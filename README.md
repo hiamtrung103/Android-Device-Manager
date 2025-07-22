@@ -68,10 +68,10 @@
 
 ## 📸 Screenshots
 
-| Main Interface                         | Settings & Proxy           |
-|----------------------------------------|----------------------------|
+| Main Interface                         | Main Interface (Dark)           |
+|:---------------------------------------:|:-------------------------------:|
 | ![Main Interface](./screenshots/main.png) | ![Main Interface Dark](./screenshots/main_dark.png) |
-| Main Interface (Dark)                     | Settings & Proxy (Dark)           |
+| **Settings & Proxy**                   | **Settings & Proxy (Dark)**     |
 | ![Settings](./screenshots/settings.png) | ![Settings Dark](./screenshots/settings_dark.png) |
 
 ---
