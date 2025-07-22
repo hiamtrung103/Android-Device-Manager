@@ -70,7 +70,9 @@
 
 | Main Interface                         | Settings & Proxy           |
 |----------------------------------------|----------------------------|
-| ![Main Interface](./screenshots/main.png) | ![Settings](./screenshots/settings.png) |
+| ![Main Interface](./screenshots/main.png) | ![Main Interface Dark](./screenshots/main_dark.png) |
+| Main Interface (Dark)                     | Settings & Proxy (Dark)           |
+| ![Settings](./screenshots/settings.png) | ![Settings Dark](./screenshots/settings_dark.png) |
 
 ---
 
